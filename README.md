@@ -10,6 +10,11 @@ This Tetris game project is a Java-based implementation with a graphical user in
 - Sound effects for line completion, game over, and more
 - Pause and reset functionality
 
+## Gameplay Screenshots
+![Screenshot 1](https://img.itch.zone/aW1hZ2UvMjM0MjYyMS8xMzg3NzY3MC5wbmc=/original/UX5PkF.png)
+
+![Screenshot 1](https://img.itch.zone/aW1hZ2UvMjM0MjYyMS8xMzg3ODgwMS5wbmc=/original/zLZB%2F4.png)
+
 ## Game Controls
 - **W or ↑:** Rotate block
 - **D or →:** Move block right
