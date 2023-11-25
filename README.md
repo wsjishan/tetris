@@ -11,9 +11,9 @@ This Tetris game project is a Java-based implementation with a graphical user in
 - Pause and reset functionality
 
 ## Gameplay Screenshots
-![Screenshot 1](https://img.itch.zone/aW1hZ2UvMjM0MjYyMS8xMzg3NzY3MC5wbmc=/original/UX5PkF.png)
+<img src="https://img.itch.zone/aW1hZ2UvMjM0MjYyMS8xMzg3NzY3MC5wbmc=/original/UX5PkF.png" alt="Screenshot 1" width="300">
 
-![Screenshot 1](https://img.itch.zone/aW1hZ2UvMjM0MjYyMS8xMzg3ODgwMS5wbmc=/original/zLZB%2F4.png)
+<img src="https://img.itch.zone/aW1hZ2UvMjM0MjYyMS8xMzg3ODgwMS5wbmc=/original/zLZB%2F4.png" alt="Screenshot 2" width="300">
 
 ## Game Controls
 - **W or ↑:** Rotate block
